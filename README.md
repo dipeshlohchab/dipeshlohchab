@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dipeshlohchab
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c and c++
+- 🌱 I’m currently learning c and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dipeshlohchab0302@gmail.com
 
