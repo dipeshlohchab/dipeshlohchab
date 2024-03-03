@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dipeshlohchab.
 - 👀 I’m interested in coding, data science. 
-- 🌱 I’m currently learning c and python.
+- 🌱 I’m currently learning c, python and django.
 - 🏫 I'm pursuing B. Tech from Bhagwan Parshuram Institute of Technology, Rohini Sector 17, Delhi.
 - 👨🏻‍💻 I want to become a data scientist in future.
 - 💞️ I’m looking to collaborate on ...
