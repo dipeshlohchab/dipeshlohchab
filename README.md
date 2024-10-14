@@ -6,7 +6,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dipeshlohchab0302@gmail.com.
 
-<!---
-dipeshlohchab/dipeshlohchab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![dipeshlohchab's Stats](https://github-readme-stats.vercel.app/api?username=dipeshlohchab&theme=nord&show_icons=true&hide_border=false&count_private=false)
+![dipeshlohchab's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dipeshlohchab&theme=nord&hide_border=false)
+![dipeshlohchab's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshlohchab&theme=nord&show_icons=true&hide_border=false&layout=compact)
