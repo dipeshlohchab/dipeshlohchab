@@ -12,7 +12,7 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="linkedin.com/in/dipesh-lohchab" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<p><a target="_blank" href="https://www.linkedin.com/in/dipesh-lohchab" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/dipesh.lohchab0302" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://www.youtube.com/@dipeshlohchab" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dipeshlohchab&show_icons=true&locale=en" alt="dipeshlohchab" /></p>
