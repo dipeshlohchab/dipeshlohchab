@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm DIPESH LOHCHAB</h1>
 <p>- 👋 Hi, I’m @dipeshlohchab.<br>
     - 👀 I’m interested in coding, data science. <br>
-    - 🌱 I’m currently learning c, python and django.<br>
+    - 🌱 I’m currently learning c++, java, python, machine learning, deep learning and flask<br>
     - 🏫 I'm pursuing B. Tech from Bhagwan Parshuram Institute of Technology, Rohini Sector 17, Delhi.<br>
     - 👨🏻‍💻 I want to become a data scientist in future.<br></p>
 <h2>🚀 Languages and Tools I Use</h2>
