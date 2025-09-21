@@ -4,11 +4,23 @@
 ---
 
 ### 👨‍💻 About Me
-- 🚀 Passionate about **Machine Learning, Deep Learning & Generative AI (LangChain, LLMs)**  
-- 🐍 Skilled in **Python, TensorFlow, Keras, Django** | Strong in **DSA (C++)**  
-- 📊 Contributor on **Kaggle** | Solved **200+ LeetCode** problems  
-- 🎯 Currently exploring **ML/DL projects, Data Analytics & GenAI applications**  
-- 💡 Aspiring **Data Scientist & AI Researcher** | Open to **collaborations & internships**  
+I am a **Computer Science undergraduate** passionate about exploring the fields of  
+**Machine Learning, Deep Learning, and Generative AI (LangChain, LLMs)**.  
+With a strong foundation in **Python, C++, and C**, I enjoy building **real-world solutions** that combine data-driven thinking with innovative tech.  
+
+- 🚀 Currently serving as **ML Head @ ANVESHAN**, mentoring peers and leading ML projects  
+- 🎯 Skilled in **TensorFlow, Keras, Django, Data Analytics, and DSA (C++)**  
+- 🏆 Solved **200+ LeetCode problems** and actively contribute on **Kaggle**  
+- 🌱 Exploring **Generative AI, LangChain, and Large Language Models**  
+- 💡 My goal is to become a **Data Scientist & AI Researcher**, applying ML/DL to impactful problems  
+
+---
+
+### 📚 Currently Learning
+- Advanced **Deep Learning architectures (CNNs, RNNs, Transformers)**  
+- **Generative AI** (LangChain, LLMs, Vector Databases, RAG pipelines)  
+- **System Design & Full-Stack Development** using Django  
+- **Data Analytics & Visualization** for decision-making  
 
 ---
 
@@ -17,11 +29,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="42" height="42"/>
 </p>
 
 ---
@@ -44,9 +59,20 @@
 
 ---
 
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipeshlohchab&theme=tokyo-night" alt="activity graph"/>
+</p>
+
+---
+
 ### 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/dipesh-lohchab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/dipesh.lohchab0302" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.youtube.com/@dipeshlohchab" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
+
+---
+
+🔥 *“Turning data into insights, and ideas into impactful projects.”*  
